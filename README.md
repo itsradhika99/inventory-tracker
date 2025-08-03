@@ -54,7 +54,8 @@ CSS3
 
 JavaScript (Vanilla)
 
-No frameworks, no libraries — just pure frontend code.
+Php
+
 
 ✨ Upcoming Improvements (Suggestions)
 ✅ Persist data using localStorage
@@ -69,23 +70,3 @@ No frameworks, no libraries — just pure frontend code.
 Radhika Aggarwal
 📧 radhikaaggarwal9899@gmail.com
 
-📜 License
-This project is licensed under the MIT License — feel free to use and modify.
-
-🌱 Pull requests and suggestions are welcome!
-
-yaml
-Copy
-Edit
-
----
-
-### ✅ How to Use This
-
-1. Copy the above content into a new file named `README.md` in your root folder.
-2. Run the following Git commands to commit and push:
-
-```bash
-git add README.md
-git commit -m "Add complete README"
-git push
